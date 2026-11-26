@@ -1,0 +1,8 @@
+.pio/
+.vscode/
+__pycache__/
+*.pyc
+*.log
+local*.ini
+air_drawing_*.png
+air_drawing_*.json
